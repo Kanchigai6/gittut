@@ -11,6 +11,6 @@ main(){
   }
 
   //This line was added
-  printf("Calculation has benn finished\n");
+  printf("Calculation has been finished\n");
 }
 
