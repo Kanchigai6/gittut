@@ -9,5 +9,8 @@ main(){
     a[i] = i*i;
     printf("%d^2 = %d\n", i, a[i]);
   }
+
+  //This line was added
+  printf("Calculation has benn finished\n");
 }
 
